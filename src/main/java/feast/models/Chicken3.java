@@ -10,6 +10,7 @@ public class Chicken3 {
 
     @Autowired
     public Chicken3(Pig4 pig4) {
+
         this.pig4 = pig4;
     }
 
