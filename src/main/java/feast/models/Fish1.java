@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Fish1 {
+
     @Autowired
     private Duck2 duck2;
 

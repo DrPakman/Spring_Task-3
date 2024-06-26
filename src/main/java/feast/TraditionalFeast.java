@@ -14,7 +14,6 @@ public class TraditionalFeast {
     }
 
     @Autowired
-    public void setFish(Fish1 fish) {
-        this.fish = fish;
+    public void setFish(Fish1 fish) {this.fish = fish;
     }
 }
